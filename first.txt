@@ -1,0 +1,9 @@
+This is my 1st project in Git.
+I want to go into commit 2.
+All of this is made by Satyam Krishna.
+change by Satyam
+I want to use git diff.
+I want to use git diff again.
+My Name is Satyam.
+now change.
+Hi
